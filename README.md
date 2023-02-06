@@ -1,3 +1,3 @@
 # Sberbank-virtual-internship.
 
-The solution is not ready yet! Please, stand by.
+The solution is almost ready! You can check it out.
