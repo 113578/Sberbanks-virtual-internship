@@ -1,4 +1,4 @@
-# Sberbank-virtual-internship.
+# Sberbank's virtual internship.
 
 Sources of data that I used:
 1. Росстат - Рынок труда, занятость и заработная плата: rosstat.gov.ru/labor_market_employment_salaries
