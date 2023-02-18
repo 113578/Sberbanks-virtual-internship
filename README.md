@@ -1,7 +1,7 @@
 # Sberbank's virtual internship.
 
 ## The task:
-Implement a project to build a model that estimates the amount of the stable part of funds in individuals' accounts
+To implement a project to build a model that estimates the amount of the stable part of funds in individuals' accounts.
 
 ## What I used:
 - Python.
